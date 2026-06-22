@@ -1,0 +1,6 @@
+{
+  "name": "Organization Task Tracker",
+  "description": "A modern task management web application for organizations with role-based access control for Managers and Staff, built with React, Vite, Tailwind CSS, and Firebase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
